@@ -1,3 +1,8 @@
+/*
+    ERIC NAHAS
+    ARMANDO RIGHI DE SOUZA
+*/
+
 import java.sql.*;
 import com.google.gson.Gson;
 
